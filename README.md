@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b0c00,50:c0390f,100:e8621a&height=200&section=header&text=Bharath%20Challagulla&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Developer%20%7C%20Data%20Science&descAlignY=58&descColor=ffd4b8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8621A&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React.js+%7C+Node.js;Cloud-Native+Microservices+on+AWS+%26+Azure;3%2B+Years+Building+Enterprise-Grade+Apps;Healthcare+%7C+Automotive+%7C+Finance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8621A&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React.js+%7C+Node.js;Cloud-Native+Microservices+on+AWS+%26+Azure;4%2B+Years+Building+Enterprise-Grade+Apps;Healthcare+%7C+Automotive+%7C+Finance)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bharathchallagulla.vercel.app-c0390f?style=for-the-badge&logo=vercel&logoColor=white)](https://bharathchallagulla.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharath5567-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharath5567)
@@ -91,27 +91,30 @@
 | 🎓 M.S. Data Science | University of North Texas, Denton TX | 2023 – 2025 |
 | 🎓 B.E. Computer Science & Engineering | PVP Siddhartha Institute of Technology, India | 2017 – 2021 |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center" >
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BharathChallagulla&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" /> &nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathChallagulla&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🗄️ SQL
 
-[![Movie Theatre Management](https://github-readme-stats.vercel.app/api/pin/?username=BharathChallagulla&repo=MovieTheatreManagementSystem&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/BharathChallagulla/MovieTheatreManagementSystem)
-[![CRUD with Express](https://github-readme-stats.vercel.app/api/pin/?username=BharathChallagulla&repo=CRUD-with-Express&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/BharathChallagulla/CRUD-with-Express)
+- 🎬 Movie Theatre Management System  
+  https://github.com/BharathChallagulla/MovieTheatreManagementSystem  
+  → Designed normalized relational schema, optimized queries, and implemented booking workflows with transactional consistency  
 
-</div>
+---
 
+### ☕ Spring Boot
+
+- 🏥 Patient Appointment System  
+  https://github.com/BharathChallagulla/patient-appointment-api  
+  → Built RESTful APIs with layered architecture, validation, and scheduling logic for healthcare workflows  
+
+- 🔗 URL Shortener  
+  https://github.com/BharathChallagulla/UrlShortener  
+  → Implemented URL encoding, redirection handling, and persistence with scalable backend design  
+
+- 📱 QR Generator  
+  https://github.com/BharathChallagulla/qr-generator  
+  → Developed service for dynamic QR generation with efficient encoding and API-based access
+  
 ---
 
 <div align="center">
